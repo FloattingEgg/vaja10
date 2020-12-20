@@ -1,1 +1,2 @@
 # vaja10
+sprememba
